@@ -8,4 +8,8 @@ class FizzBuzzTest {
     void oneReturnsOne() {
         assertEquals("1", FizzBuzz.convert(1));
     }
+    @Test
+    void twoReturnsTwo(){
+        assertEquals("2",FizzBuzz.convert(2))
+    }
 }
