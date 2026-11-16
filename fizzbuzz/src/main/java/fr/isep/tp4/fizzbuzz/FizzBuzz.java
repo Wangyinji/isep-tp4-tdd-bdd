@@ -1,0 +1,7 @@
+package fr.isep.tp4.fizzbuzz;
+
+public class FizzBuzz {
+    public static String convert(int number) {
+        throw new UnsupportedOperationException("FizzBuzz is not implemented yet");
+    }
+}
